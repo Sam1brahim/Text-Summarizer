@@ -43,9 +43,9 @@ python app.py
 
 Now,
 ```bash
-open up you local host and port
+open up your browser and type inside the URI bar : localhost:8080
 ```
-
+We used '8008' because it is set inside the 'app.py'
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
